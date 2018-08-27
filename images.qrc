@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="HID">img/hid.ico</file>
+        <file alias="SWOFF">img/swOFF.png</file>
+        <file alias="SWON">img/swON.png</file>
+        <file alias="LED0">img/LedOff.ico</file>
+        <file alias="LED1">img/LedOn.ico</file>
+    </qresource>
+</RCC>
